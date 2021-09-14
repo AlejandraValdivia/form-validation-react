@@ -1,0 +1,6 @@
+{
+  "npm.enableRunFromFolder": true,
+  "npm.exclude": "",
+  "npm.packageManager": "npm",
+  "npm-intellisense.scanDevDependencies": true
+}
